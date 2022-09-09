@@ -1,0 +1,58 @@
+ export const image = [
+   {
+     chemin: "../../../assets/media/1.jpg",
+     Titre: "Le chroniquer malade",
+     abonnee: "100k",
+     auditeur: "80k",
+     Auteur: "Riche Plume",
+   },
+   {
+     chemin: "../../../assets/media/2.jpg",
+     Titre: "Le chroniquer malade",
+     abonnee: "100k",
+     auditeur: "80k",
+     Auteur: "Riche Plume",
+   },
+   {
+     chemin: "../../../assets/media/3.jpg",
+     Titre: "Le chroniquer malade",
+     abonnee: "100k",
+     auditeur: "80k",
+     Auteur: "Riche Plume",
+   },
+   {
+     chemin: "../../../assets/media/4.jpg",
+     Titre: "Le chroniquer malade",
+     abonnee: "100k",
+     auditeur: "80k",
+     Auteur: "Riche Plume",
+   },
+   {
+     chemin: "../../../assets/media/5.jpg",
+     Titre: "Le chroniquer malade",
+     abonnee: "100k",
+     auditeur: "80k",
+     Auteur: "Riche Plume",
+   },
+   {
+     chemin: "../../../assets/media/6.jpg",
+     Titre: "Le chroniquer malade",
+     abonnee: "100k",
+     auditeur: "80k",
+     Auteur: "Riche Plume",
+   },
+   {
+     chemin: "../../../assets/media/8.jpg",
+     Titre: "Le chroniquer malade",
+     abonnee: "100k",
+     auditeur: "80k",
+     Auteur: "Riche Plume",
+   },
+   {
+     chemin: "../../../assets/media/9.jpg",
+     Titre: "Le chroniquer malade",
+     abonnee: "100k",
+     auditeur: "80k",
+     Auteur: "Riche Plume",
+   },
+ ];
